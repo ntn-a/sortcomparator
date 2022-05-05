@@ -10,5 +10,10 @@ Will modify later to insert a table to display a run of data given choice A and 
 ## How to run
 All that needs to be done is to ```git clone``` the repo and compile as ```g++ *.cpp```. You will need to provide your own text files as ```a.txt, b.txt, & c.txt```. I will try to add functionality to allow the user to choose the text files.
 
+## To-do
+- Refactor code, it's a bit of a mess...
+- Possibly make it GUI based to visually show sorts.
+- Carry it over into JavaScript.
+
 ## Credits
 - Big C++: Late Objects, Cay S. Horstmann
